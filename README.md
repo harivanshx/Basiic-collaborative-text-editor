@@ -12,7 +12,7 @@ A simple, real-time collaborative text editor built with modern web technologies
 
 - Frontend: React, Socket.io
 - Backend: Node.js, Express, Socket.io
-- Database: (if applicable, specify)
+- Database: MongoDB
 
 ## Key Design Decisions
 
