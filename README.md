@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/your-repo/collaborative-text-editor.git
+[git clone https://github.com/harivanshx/Basiic-collaborative-text-editor.git]
 cd Basiic-collaborative-text-editor
 ```
 
